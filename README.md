@@ -1,7 +1,14 @@
 # 2nd MAI Competition - Genomic Language Model Mutation Sensitivity
 
-**Competition:** Korea University Medical AI Competition  
+**Competition:** Korea University Medical AI Competition (DACON)  
 **Goal:** Generate 2,048-dimensional embeddings for DNA sequences that are sensitive to small genetic variations (SNPs, indels)
+
+## Results
+
+| Metric | Value |
+|--------|-------|
+| **Final Score** | 0.511 |
+| **Rank** | 112 / 498 |
 
 ## Approaches Implemented
 
